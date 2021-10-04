@@ -1,0 +1,38 @@
+.box-1{
+
+    color: blue;
+    text-align: center;
+    font-size:10;
+    border: 3px double;
+    background-color: aqua;
+    
+}
+
+button{
+color: blue;
+background-color: brown;
+}
+.categories{
+    border:1px #000 solid;
+    padding: 10px;
+    border-radius: 20px;
+}
+.categories h2{
+    text-align: center;
+}
+a{
+   text-decoration: none; 
+   color: rgb(255, 0, 21);
+}
+a:hover{
+    color: blueviolet;
+}
+a:active{
+    color: antiquewhite;
+}
+.categories li{
+    padding-bottom:8px;
+    border-bottom:dotted 2px #333;
+    list-style: url("../images/check.png");
+}
+
